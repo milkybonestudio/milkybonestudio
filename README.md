@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋☠️
 
-work:
-- programming:
-- art: 
-
+Here you can see what I am working on. 
 
 <!--
 **milkybonestudio/milkybonestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
