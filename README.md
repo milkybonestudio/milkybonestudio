@@ -1,25 +1,8 @@
 ### Hi there 👋
-s
-s\r\n
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
+
+work:
+- programming:
+- art: 
 
 
 <!--
